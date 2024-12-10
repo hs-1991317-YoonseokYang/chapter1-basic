@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Runtime data
+
+#경로는 gitignore파일에 상대적. 따라서 일반적으로 프로젝트 최상위 폴더에 두는 듯 하다.
